@@ -1,0 +1,917 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_151 (Oracle Corporation)
+
+Name: assets/html-pt/about2d.html
+SHA1-Digest: ZaP2zdeDZxRIBC0tgIiIvmJ8BSc=
+
+Name: assets/www/bileti/img/100mil1.jpg
+SHA1-Digest: zPwGBgWgB44ulRKArmpP32J7JU8=
+
+Name: assets/html-ja/license.html
+SHA1-Digest: cpwMyYYQm4bCpDuDg7s1HW2EjcU=
+
+Name: assets/html-zh-rCN/scanning.html
+SHA1-Digest: HyAG6iZkVSx19F8olUlhpuh/3XY=
+
+Name: res/layout-land/encode.xml
+SHA1-Digest: Vs4fhiKVF7hhHxAxoWcJPKIv+3Q=
+
+Name: res/drawable-xxhdpi-v4/launcher_icon.png
+SHA1-Digest: MlD9tpiFQfXpqfMz9s2Q+lCU9os=
+
+Name: assets/www/milionpodaraci.html
+SHA1-Digest: IBDxklnflNmE1wF8tY1nZkUHgW4=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA1-Digest: I7N7czh09CMBaNFUyy5bb/6OI00=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: P/wxkPCZpWlDXn4V4hSETB1GR4s=
+
+Name: assets/html-de/whatsnew.html
+SHA1-Digest: +B27TIC1k+muZkj3SS6qwCbxI6I=
+
+Name: assets/html-it/scanning.html
+SHA1-Digest: gY1EdUUcxLB51mRsEbrtHCb2+vY=
+
+Name: assets/html/apache-license.txt
+SHA1-Digest: ffBZWXCZu33PJdKprt+vRGX3LY0=
+
+Name: assets/www/bileti/img/vakancia2.jpg
+SHA1-Digest: 4Ch9rkr46Obs8qz6duhHYQ75ncI=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA1-Digest: h1LoGEv7CTdqAsjIHhJzt6kXxD4=
+
+Name: res/layout-ldpi-v4/capture.xml
+SHA1-Digest: podpKOBxvPBvstwGkoZboUzIE4w=
+
+Name: assets/www/superkesh.html
+SHA1-Digest: NmAUkRjk1FJEOqZgIlSe/xgXXxE=
+
+Name: assets/www/astro.html
+SHA1-Digest: RCfyXX/pM8B5Wo7hjZ9L3BTUXX0=
+
+Name: assets/www/seifove.html
+SHA1-Digest: wJ7K+65QZTDk/J60oUPjbqvtETg=
+
+Name: assets/www/levchekefche.html
+SHA1-Digest: HvSXX5E9xLO5yyhg2SKAbO4SPiA=
+
+Name: assets/html-es/whatsnew.html
+SHA1-Digest: 7IRHcyCYjzFuV97+i29xkkAiun4=
+
+Name: assets/www/bileti/img/mpk1.jpg
+SHA1-Digest: Jz9rVGbUxQKGNIR63x+MB4be5yg=
+
+Name: assets/www/bileti/img/krastoslovica3.jpg
+SHA1-Digest: J/yP+cBoGiczEU8mB3dh6IFzrv4=
+
+Name: assets/html-uk/scanning.html
+SHA1-Digest: WNSTLPOK1PgPk1tM2EyrVyi0p1c=
+
+Name: assets/html-zh-rHK/sharing.html
+SHA1-Digest: CQ6WyVPAM3RdUPGQR/IUAILVDqQ=
+
+Name: assets/html-it/sharing.html
+SHA1-Digest: XVvSZeXzLP0Cwr4gnn+Eck07Gy8=
+
+Name: res/layout/share.xml
+SHA1-Digest: TY9wQvvdg84S4SUvy9nxEDRRWmY=
+
+Name: assets/images/scan-from-phone.png
+SHA1-Digest: MU7z4DLLSmQxVDPocrpaf/78W5w=
+
+Name: assets/html-uk/about2d.html
+SHA1-Digest: IN7kLscqb/S2eLknF1DHOaZzkf8=
+
+Name: assets/html-en/whatsnew.html
+SHA1-Digest: WiMGVghKqJhm7704EMwdskTiuSY=
+
+Name: resources.arsc
+SHA1-Digest: Q3pfCk3qzv4oFDsbDXLvq8rmDvs=
+
+Name: assets/www/LOGO_LB.png
+SHA1-Digest: 74SSfxU8A98ghCsVZRAF1NxbIKs=
+
+Name: assets/www/bileti/img/levche3.jpg
+SHA1-Digest: scuJK9P8E9RXZHr1Id7ZnpAho3w=
+
+Name: assets/html-ru/license.html
+SHA1-Digest: x0DdB5WhepUVuwhj6ylZtUCjzyI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: /ik5TihtwCvjqcHoM/6yS1Tbd4E=
+
+Name: assets/html-ja/whatsnew.html
+SHA1-Digest: lXQlyvjR0HBt+UqSoz3XWZeQb+4=
+
+Name: res/drawable/share_via_barcode.png
+SHA1-Digest: Iv2rqbTTI4GxhNOGjjTfB55Z5tk=
+
+Name: assets/www/bileti/img/super2.jpg
+SHA1-Digest: gknMCxqDxJUoY4nDOoidAz8p7aE=
+
+Name: assets/www/bileti/img/zlatoto1.jpg
+SHA1-Digest: mT3Fhk4pJhah517UoaQ4vYmLp7I=
+
+Name: protobuf.meta
+SHA1-Digest: TiH2vrHcxqd8kqIwNHBGR8EYV6U=
+
+Name: res/xml/config.xml
+SHA1-Digest: U+Byd4k6E0Ttsi1qa30pDB4WLN0=
+
+Name: assets/images/big-datamatrix.png
+SHA1-Digest: 3y+fNfHQrXdV46JXijJ0Crpqbk4=
+
+Name: assets/html-nl/sharing.html
+SHA1-Digest: 4Wre+gqbYLLmpA4fkrZB4MsCcqY=
+
+Name: assets/html-zh-rCN/license.html
+SHA1-Digest: ZaTSJBJBivLxbMwCcfJmRKporZE=
+
+Name: res/drawable-xhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: PIph7M4ZHhY/AYP5Y1gUzmtpP60=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l_background.9.png
+SHA1-Digest: Mp14FgGLVMAFx4aJz9gLqSo67Ns=
+
+Name: assets/html-fr/whatsnew.html
+SHA1-Digest: RRuJ1ojJ2c2Y4ZeAI77WFfIuTyg=
+
+Name: assets/www/bileti/img/bm351.jpg
+SHA1-Digest: 01/VkWlDhpJ9xHF4XKksIoXHntg=
+
+Name: res/drawable-xhdpi-v4/ic_os_notification_fallback_white_24dp.png
+SHA1-Digest: djwqn78RAr8qc04USpKtuMLgmLs=
+
+Name: assets/html-ru/about1d.html
+SHA1-Digest: wHjTW9Md25AML8Jztq5pTwsE3ME=
+
+Name: assets/html-en/sharing.html
+SHA1-Digest: A4uupZg04VMdkeT2+H4Fo3FGxo8=
+
+Name: assets/www/bileti/img/zvezda.jpg
+SHA1-Digest: 7NIrxxzIEWz5QrXYXUcMwETfZgc=
+
+Name: assets/www/bileti/img/12kl_Lichnost.pdf
+SHA1-Digest: jp28+B5jAl8ZpRPXyT54C/OGGSI=
+
+Name: assets/html-zh-rTW/sharing.html
+SHA1-Digest: CQ6WyVPAM3RdUPGQR/IUAILVDqQ=
+
+Name: res/layout/search_book_contents.xml
+SHA1-Digest: D/avonMF6fRCHxqiHj07UKTy6BU=
+
+Name: assets/www/bileti/img/bmfo3.jpg
+SHA1-Digest: 2So2DVkcArwG9G61ezLWv5eY7n0=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_
+ background.9.png
+SHA1-Digest: yD9oZ20JeI0KgCsh9WHkjjufTLU=
+
+Name: assets/html-es/about2d.html
+SHA1-Digest: pehyh4cS7eozsawmlx4QuhmL2SY=
+
+Name: assets/html-ko/whatsnew.html
+SHA1-Digest: SABwuYBCTAs6ZGTsaCV5Zlog1EM=
+
+Name: assets/html-zh-rTW/whatsnew.html
+SHA1-Digest: pEo0XYWez1jszNRBMCzRM/u26y8=
+
+Name: assets/www/bileti/img/kesh1.jpg
+SHA1-Digest: hnbZvkZw9N3eQj6A+PAfY5J51i4=
+
+Name: assets/html-ru/index.html
+SHA1-Digest: i1Ozo1R5moOxqQCk4FZlMTPhRnE=
+
+Name: assets/www/vegas.html
+SHA1-Digest: U8DO2HLMv9YO0tbrGrdRVNcjPmE=
+
+Name: res/menu/capture.xml
+SHA1-Digest: +3IabS3BqWbvpwQ61/mQ1hOojMc=
+
+Name: assets/html-ko/sharing.html
+SHA1-Digest: mT5DlkzMdHxMniVBBe+rYlMxRw4=
+
+Name: assets/html-nl/whatsnew.html
+SHA1-Digest: xhuyZzT5p1af3iJbKA1GS9LqmeI=
+
+Name: assets/html-es/scanning.html
+SHA1-Digest: wVn8rr1cWA+3oXJQsJ5Ose5kZkA=
+
+Name: assets/html-pt/scanning.html
+SHA1-Digest: 2vfWxxTsAw9s0e7suVP9flpD9sM=
+
+Name: res/raw/consumer_onesignal_keep.xml
+SHA1-Digest: UQ5xpKDADIMFRNFQpD2RB18ORWg=
+
+Name: assets/www/plugins/cordova-plugin-statusbar/www/statusbar.js
+SHA1-Digest: hDT++3ZaOTp3t16AAFAibxtovj0=
+
+Name: assets/html-zh-rCN/about1d.html
+SHA1-Digest: hr1cXPAl4FHI3wuaQbaVeoOuL0Y=
+
+Name: assets/html-uk/whatsnew.html
+SHA1-Digest: lljAJUVW/9ejt/KIGNtf7PVruK8=
+
+Name: assets/www/bileti/img/vegas3.jpg
+SHA1-Digest: WU9V5AK43NxA4SCoTkVUqgGhNkk=
+
+Name: assets/html-de/sharing.html
+SHA1-Digest: BkiLvBSkPYdCUB8HMR5loiywA7Y=
+
+Name: assets/www/24karata.html
+SHA1-Digest: WHWjrVMEkkOXeKgPbxgeQebUeCM=
+
+Name: assets/www/bileti/img/labirin4.jpg
+SHA1-Digest: LWJtPhUWfON8cWVtw1HEgEYSwRU=
+
+Name: assets/images/scan-example.png
+SHA1-Digest: aehDSZJZ0HxNKmbnGGbExR6wVtI=
+
+Name: assets/www/cordova.js
+SHA1-Digest: IQ0e8hkCT3hHFKR4o1uEK3ee+IA=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: zuZgcWHcrfuOwmn/VjFvy1XSS+U=
+
+Name: assets/www/bileti/img/vakancia3.jpg
+SHA1-Digest: TRhDli7jgLBqXF/g/0N1L7jZCVk=
+
+Name: assets/www/bileti/img/barzi3.jpg
+SHA1-Digest: HKRJpcO4HPMmqAZJqzOMzDjEAqk=
+
+Name: assets/html-ru/about2d.html
+SHA1-Digest: NgNRN/5l0CttsP+pQoT+OjFjJM4=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA1-Digest: 7NPPLIAc5QzEK09bYQStupu/S08=
+
+Name: assets/www/bileti/img/100mil2.jpg
+SHA1-Digest: vbepZeglPJtTDwHLlTOYDTVuY3g=
+
+Name: assets/html-zh-rCN/about2d.html
+SHA1-Digest: BXrWB1Us3xr0hr/fMFddBnueLNk=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: PpWZKZFjPFyMgpHfeMn9iqgiRa8=
+
+Name: res/layout/encode.xml
+SHA1-Digest: Z4FzT2cN76yc8pU/JdN5otT0/ZY=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: Xu/vb2avz7RRuCeMEpG0r934+10=
+
+Name: assets/www/bileti/img/pasians3.jpg
+SHA1-Digest: Hdfq8AGePbtd6BW9cBxcMEdD5u8=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: XBrlG5PBf4YH6VsSxD2+nV63KbU=
+
+Name: assets/html-de/license.html
+SHA1-Digest: n1wn0GoPF0D5LOHBoC3M6GfLDVs=
+
+Name: res/layout/app_picker_list_item.xml
+SHA1-Digest: 9R4K0hETmNRBZ+l5NRYX5Mc0Yy0=
+
+Name: assets/www/bileti/img/seifove1.jpg
+SHA1-Digest: VsElwQbgc2sHzumN6Y5+j7wFkpI=
+
+Name: assets/html-ru/whatsnew.html
+SHA1-Digest: g0mcEga+0lTqoPBN+z92PW+hzKc=
+
+Name: assets/html-nl/scanning.html
+SHA1-Digest: MsnbMEdpMHoaVtHPaM/4l0ZRVeU=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: 7S9TcXc89Lj6FlK/Rtfvh5fIwLQ=
+
+Name: assets/html-de/about1d.html
+SHA1-Digest: KVWBK7A8ciGlY+aOAOypPi4LRRQ=
+
+Name: assets/www/bileti/img/torba.jpg
+SHA1-Digest: uciBP3W+k8vn5/+XLrwV6QJPqu8=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: APvdlQAG/k2M9yd3ca3hhDW/wNo=
+
+Name: res/drawable-xxhdpi-v4/ic_os_notification_fallback_white_24dp.pn
+ g
+SHA1-Digest: +f8CJyA/36rHFYFMQnWpeyLU54w=
+
+Name: assets/images/big-qr.png
+SHA1-Digest: 5sZQMlxLDUu09Ai2mZUKoi7glwg=
+
+Name: assets/www/bileti/img/krastoslovica2.jpg
+SHA1-Digest: 93xvP5fTDvG86uG1LTWhcR+TQgY=
+
+Name: assets/html-ko/scanning.html
+SHA1-Digest: ywP+DbEZ0ohVo5lzjeZ9QcBNXoo=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: n2E0W8B/grOxM2ORx/haAYOWIcA=
+
+Name: res/drawable-xxhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: nMVBDwLTSbultJoYcciQ4bN8x8o=
+
+Name: res/drawable-hdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: hlnt60Dfc5NtZRHLV02uDuNyNhk=
+
+Name: res/drawable-xhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: L11lHK2mmgu/o18gIGjz6Dil0fo=
+
+Name: assets/www/plugins/cordova-plugin-device/www/device.js
+SHA1-Digest: DgD9WKGqlbNViEZBSi4Wenbl/uM=
+
+Name: assets/www/bileti/img/milion3.jpg
+SHA1-Digest: RYyv0iYxPAqnV+0wGtIJ73htAdQ=
+
+Name: assets/html-ko/about2d.html
+SHA1-Digest: OVT83Scpo6uWG4qENfHpo46FwXc=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ _background.9.png
+SHA1-Digest: YWT3Hu0c24Wx6GE5EQWO6lX0T2A=
+
+Name: assets/html-zh-rHK/whatsnew.html
+SHA1-Digest: pEo0XYWez1jszNRBMCzRM/u26y8=
+
+Name: assets/www/bileti/img/krastoslovica1.jpg
+SHA1-Digest: WCoDEYS8/k/w9I7z85H0N2KSpuQ=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: IQ0e8hkCT3hHFKR4o1uEK3ee+IA=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: p8oUJ9fSmchD0pe5FIO9V5/KlCA=
+
+Name: assets/html-zh-rTW/index.html
+SHA1-Digest: Zq2xoSrqiH6iRzrE0X5AWdbiPeo=
+
+Name: res/drawable-hdpi-v4/ic_os_notification_fallback_white_24dp.png
+SHA1-Digest: Dfn4Qgg8MgoikQUrHS0++uGkOS8=
+
+Name: assets/www/bileti/img/242.png
+SHA1-Digest: UCmK5PvwhfCeqtlTq4cvgJTBfrI=
+
+Name: res/layout/onesignal_bgimage_notif_layout.xml
+SHA1-Digest: ki5U3j2HqWmNQyE5gSm2Xnytyok=
+
+Name: assets/html-en/about1d.html
+SHA1-Digest: 9RStKe1zcm5xZDAn+/RDRyXFs+Y=
+
+Name: res/drawable-hdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: FeAurMe3wqXIrSUKp1Ky8+TbqAc=
+
+Name: assets/images/big-pdf417.png
+SHA1-Digest: NLkL5pOJEN2Y0PVZ5C97MForEAo=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: bsfgc/1xs7uUHKj3AzwfEQmzACM=
+
+Name: assets/html-fr/license.html
+SHA1-Digest: 3wy8H0PZgJbjiNVAVUief9GYN20=
+
+Name: assets/style.css
+SHA1-Digest: mz3OOTBbhVFQXSLQ7lKg7YhrQbA=
+
+Name: assets/html-nl/about1d.html
+SHA1-Digest: 2ftbZJQsR90/8DEBamsN7+eHbFo=
+
+Name: assets/html-pt/license.html
+SHA1-Digest: USYBAY3XNzVH047SFqHckcpqu3U=
+
+Name: assets/www/bileti/img/zlatoto2.jpg
+SHA1-Digest: CQn/rBWWaOGdcy29je1Vr/JUcT0=
+
+Name: res/drawable-xxhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: SnPGdnIDgCp0sOBibA6ZKWY6cxI=
+
+Name: assets/www/bileti/img/mpk2.jpg
+SHA1-Digest: zJlBdO/Iz045bYta+M+67FA2N40=
+
+Name: assets/www/bileti/img/kesh2.jpg
+SHA1-Digest: BBFOKiNcvO1Brd2n5LPUvZMSHY8=
+
+Name: assets/www/bileti/img/astro1.jpg
+SHA1-Digest: ejWy0fvkd/b96RMJ64OsSuNGBgU=
+
+Name: assets/html-en/index.html
+SHA1-Digest: fb/hyToULukPgY0+TP5MB7boDnw=
+
+Name: assets/www/bileti/img/bm352.jpg
+SHA1-Digest: GDlm3J6f33Hvxu6b/m2KLw4IWso=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ _background.9.png
+SHA1-Digest: kJWGBYkmpyPo8tZlRKh0fttExxk=
+
+Name: res/layout-land/share.xml
+SHA1-Digest: bOXOIg+vWQgShtlfX8427uUUbOQ=
+
+Name: assets/html-fr/about1d.html
+SHA1-Digest: fWyvQGLHBPZHn3NG8R55dEhkzak=
+
+Name: assets/html-en/about2d.html
+SHA1-Digest: xdqPfREn+1dtFFbTLhXxOJV/S2k=
+
+Name: assets/images/demo-no.png
+SHA1-Digest: xUe7SgAVIPSaeo20Sv9xwSNfkak=
+
+Name: assets/www/podarykskasmeti.html
+SHA1-Digest: UZevCk3IK3YNkoIU7pQGg6QpNSc=
+
+Name: assets/www/bileti/img/100mil3.jpg
+SHA1-Digest: Meq3gWj3S4igjiy9/zb+jgQRueA=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: NnroziZI3fviO+q1sOX3yNG2D3U=
+
+Name: assets/html-ko/about1d.html
+SHA1-Digest: MLhI9HnzID7DVuawgDWfis2nswA=
+
+Name: res/drawable-mdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: MGA87YfiomuNCzYa+XKeVCPnoZ0=
+
+Name: assets/html-pt/about1d.html
+SHA1-Digest: rB9jJKp0oDZCw31a/UvPhu/qFfA=
+
+Name: assets/www/bileti/img/super1.jpg
+SHA1-Digest: T8eU/ucpLsJWWxi4VeTuKvu7DSY=
+
+Name: assets/www/bileti/img/labirin3.jpg
+SHA1-Digest: jMP0GledI12uldZzque5VVj1IqU=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA1-Digest: OuPdHrGRTuKVbnKaNUfNzepj9O0=
+
+Name: assets/html-nl/about2d.html
+SHA1-Digest: FgX6c/h0pc8HRk8w98R9hdLndSk=
+
+Name: assets/www/bileti/img/241.jpg
+SHA1-Digest: WQEdj8u69bifW8sOdUy48VfMcUM=
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA1-Digest: /BJiOmFTgPRrRYBjJrMoCOUNn6E=
+
+Name: assets/www/keshnamiga.html
+SHA1-Digest: In3xMv6K7sJQghx3fijNvX/OCRw=
+
+Name: assets/html-zh-rHK/scanning.html
+SHA1-Digest: fx9zo1qOdQ2tuaZMIq1uW8ygu+A=
+
+Name: assets/html-fr/about2d.html
+SHA1-Digest: 45DWscZOsZr4uiUy1ew0vw+GS80=
+
+Name: res/drawable-mdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: tA1Zrbl7FxLpwYDQ9Sv1bxdk+w0=
+
+Name: assets/www/bileti/img/barzi2.jpg
+SHA1-Digest: 7ayIzHfMVnB9PsXtJkoQ8fdSefM=
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA1-Digest: IdvRjw89JO9avAkWqcMVorjyEeg=
+
+Name: res/menu/encode.xml
+SHA1-Digest: WM0E/AoFr9uy7DE2dcn1ti3+Kh8=
+
+Name: assets/www/bileti/img/pasians2.jpg
+SHA1-Digest: 3ptgdfNUEo9x8PHIeQrpJdJUQLQ=
+
+Name: assets/www/js/init-app.js
+SHA1-Digest: f7jrKBi6t0CXuBufVLCWLfST0jw=
+
+Name: res/layout/capture.xml
+SHA1-Digest: +j5SHrHayB5xMdRcdTv3XAovIzg=
+
+Name: res/drawable-hdpi-v4/launcher_icon.png
+SHA1-Digest: sRJoMb7I7kNGA0herh6BzNQUeG8=
+
+Name: res/drawable-xxxhdpi-v4/ic_os_notification_fallback_white_24dp.p
+ ng
+SHA1-Digest: Jlzb4K0lLlJsR3yR2ZnSTnTx3Uc=
+
+Name: assets/www/bileti/img/vegas2.jpg
+SHA1-Digest: FL9SGjMhwwGE2LGMKDSa3biGiSs=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: G5zb84OdbP9P8S8UmdfNd6URe7E=
+
+Name: assets/www/js/app.js
+SHA1-Digest: DgdkQzunYVbFCmifpm25H2ViPnc=
+
+Name: assets/html-zh-rTW/about2d.html
+SHA1-Digest: +Apk17r3jFEbxAPDoIqPV5w+euM=
+
+Name: assets/html-ja/index.html
+SHA1-Digest: Un3x72e9Spgu09v5BDhI3BeMvBQ=
+
+Name: assets/www/barzi.html
+SHA1-Digest: /hMbrx0VyguZMoprEpY5g7DltOo=
+
+Name: res/drawable-mdpi-v4/ic_os_notification_fallback_white_24dp.png
+SHA1-Digest: OWJhHUkyhKhmZ2r2FkWKxFdMGHk=
+
+Name: assets/images/big-aztec.png
+SHA1-Digest: Q+Nn1FqovFmNF9o5lvrki4RxwLc=
+
+Name: assets/html-ko/license.html
+SHA1-Digest: tuOwl4wcPeTITuidd+t9cmLR1tQ=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: qleKQAEaDWtvjqExBwBTQxblfek=
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA1-Digest: VKHazGK60oUyuXXEKDQwz/GvZx8=
+
+Name: assets/html-it/license.html
+SHA1-Digest: W3CXp/noIQKvcMJb0pPZFtnXjP8=
+
+Name: assets/www/index.html
+SHA1-Digest: Au3nGwFV+liuw8/pB/THmMNpncs=
+
+Name: assets/html-it/about1d.html
+SHA1-Digest: Z/zZV4XX10v14YafbyLeZDVPadI=
+
+Name: assets/html-ru/sharing.html
+SHA1-Digest: sQtRx/Y4u32Yyjh8pLm7CbiF2K0=
+
+Name: assets/www/bileti/img/astro2.jpg
+SHA1-Digest: bxqm/kpot/i705D5vy7KLVxDLlY=
+
+Name: assets/html-nl/license.html
+SHA1-Digest: SVtEe4iP/HiVZbIUsgGnWwjkfuY=
+
+Name: res/drawable/flip_camera.png
+SHA1-Digest: z5DL4VMetpm7gMVvBJu3dJvcNRM=
+
+Name: assets/html-ja/scanning.html
+SHA1-Digest: lf6y4e5u23uwhD0+PEj6M1GHmW8=
+
+Name: assets/html-en/license.html
+SHA1-Digest: YQfGC+mIxi3zaG5l/xs7eF8re4Y=
+
+Name: assets/www/plugins/onesignal-cordova-plugin/www/OneSignal.js
+SHA1-Digest: iNgUKBNkRE+6Usvo06RSe+Xd98s=
+
+Name: assets/html-es/index.html
+SHA1-Digest: Va8qoNs/DGfs+A0KX9qCm1teXyU=
+
+Name: assets/www/bileti/img/mp2.jpg
+SHA1-Digest: GV4asu9qsNZnseU1o5yct9OcZDA=
+
+Name: assets/www/bileti.html
+SHA1-Digest: D3NPM8kYlvvJnq8wsQ3wOf/lLaI=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: 1eWl0kIiC3mj6N8is5Uk44jyABY=
+
+Name: assets/www/bileti/img/milion2.jpg
+SHA1-Digest: RhcFJNAB83dyMKDQfoM0DZP+Wts=
+
+Name: assets/images/contact-results-screen.jpg
+SHA1-Digest: y8XzxbaxlWrp383mAl4ZFEiNa/w=
+
+Name: assets/html-uk/sharing.html
+SHA1-Digest: aSzOxLZzOjoovXZuvt8Zpy3pJYU=
+
+Name: res/layout/bookmark_picker_list_item.xml
+SHA1-Digest: nXk8KEQCxuUTuSuppLPwlmjdsp8=
+
+Name: assets/www/bingomilioni.html
+SHA1-Digest: Pkbv9jQzOwOLz7iQUDISEjG59Wg=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: IkrmrmmuVz06NVl7Nv+YYaK9HSU=
+
+Name: assets/images/demo-yes.png
+SHA1-Digest: XCPIRnVwK6/4r+jQCR9OzrmB4Q0=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: Pt4LOUzBwVoJY8QOs/m/fxsU/Uk=
+
+Name: assets/www/plugins/phonegap-plugin-barcodescanner/www/barcodesca
+ nner.js
+SHA1-Digest: haJXivDxwB2BCbPcMrODx5ojVqQ=
+
+Name: res/drawable-xhdpi-v4/launcher_icon.png
+SHA1-Digest: eYU6lXFPGix2zcBixGe3PhD3J4w=
+
+Name: assets/html-zh-rTW/license.html
+SHA1-Digest: zspcDcZleYTUXeVBXdIrXH8M3g8=
+
+Name: assets/html-zh-rHK/about2d.html
+SHA1-Digest: +Apk17r3jFEbxAPDoIqPV5w+euM=
+
+Name: assets/html-it/about2d.html
+SHA1-Digest: b0bgakZ1k+aDxjRv9X0nm/ULbd4=
+
+Name: assets/html-pt/index.html
+SHA1-Digest: m66mbJDd6Jz98Zjp3L7QX3RTs2A=
+
+Name: assets/www/bileti/img/kesh3.jpg
+SHA1-Digest: jvgdjs8SDMcdbKh0oZiSZ5n60c8=
+
+Name: assets/www/xdk/init-dev.js
+SHA1-Digest: fcn5NdN6e8JgvzQzSp04y8HEe4I=
+
+Name: assets/www/bileti/img/bm353.jpg
+SHA1-Digest: h04pzcYaVEsm8SivEECF+m3ZR4M=
+
+Name: assets/html-it/index.html
+SHA1-Digest: uoc/VFu0skJnPN1mKKRGHnX8osQ=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: QXLwBUzGDhJT8qRbeINHR6zPUDc=
+
+Name: assets/html-zh-rTW/scanning.html
+SHA1-Digest: fx9zo1qOdQ2tuaZMIq1uW8ygu+A=
+
+Name: assets/www/bileti/img/mp1.jpg
+SHA1-Digest: YbvGLNsHle1b4r3waaWC1WwP/SY=
+
+Name: assets/www/bileti/img/seifove2.jpg
+SHA1-Digest: 7soEV4VzpBloY46z5rU/CqoWxzw=
+
+Name: assets/www/bileti/img/levche1.jpg
+SHA1-Digest: JTw/pHOW5RxYniwGbXeCxPWF0w4=
+
+Name: assets/html-ja/sharing.html
+SHA1-Digest: PmW0BzTkRNEGfRi/5r/ANuBmNNc=
+
+Name: res/drawable/toggle_torch.png
+SHA1-Digest: mAQm4tmkwA2rDv9d93EdU5HjCrs=
+
+Name: assets/www/bileti/img/labirin2.jpg
+SHA1-Digest: fe66sB5zNOq1wIYcYm6QDYTYCYw=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: QWNxEibXctHKdimj4nbvZC5eWLc=
+
+Name: assets/html-fr/sharing.html
+SHA1-Digest: 7IQwn/16klgQL1luVvsT5Hy9RBM=
+
+Name: assets/html-zh-rHK/about1d.html
+SHA1-Digest: VqTfbhqGq1fJxGTUTCbyqmB6Kgc=
+
+Name: assets/www/bileti/img/podarykskasmeti2.jpg
+SHA1-Digest: qe90QZ0fY1sGuUYslRmijMU/LXE=
+
+Name: assets/images/search-book-contents.jpg
+SHA1-Digest: eOsHIHhlWgyh6vA4Ah06FPjDxLw=
+
+Name: assets/www/bileti/img/zlatoto3.jpg
+SHA1-Digest: UPlN4e7Zy2ptIAmh8ST2aBLX1zI=
+
+Name: assets/html-de/scanning.html
+SHA1-Digest: Y81kVpx0miYWovgn/W3K5L2eJ3A=
+
+Name: assets/html-pt/sharing.html
+SHA1-Digest: QfMqtwo6i7BpeIY+3RAB+wcvM5w=
+
+Name: assets/www/bileti/img/barzi1.jpg
+SHA1-Digest: /hxPKi6U8TlwzELu4NBnRIBTLJk=
+
+Name: assets/www/neochakvanavakancia.html
+SHA1-Digest: 5B64Zf+u7O8YYZxzHFPKpjp687s=
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA1-Digest: 793egz0jiDktY5/7rUEqAroaHFI=
+
+Name: assets/html-de/about2d.html
+SHA1-Digest: rJGq0XrcVUhI5JtBvQgqDezZ3cc=
+
+Name: assets/www/100milionakesh.html
+SHA1-Digest: +4Avds7mUAxlWbiX/RhyJtt9Xsk=
+
+Name: assets/html-zh-rHK/license.html
+SHA1-Digest: zspcDcZleYTUXeVBXdIrXH8M3g8=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: 7ynqn1w6WEil8HIQG4LNKvCjLsk=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA1-Digest: VYfC/z6me1616ikREcNs/lRnJj4=
+
+Name: assets/html-ru/scanning.html
+SHA1-Digest: M6wf70BYO4cRwMdzdDwDuxwsg7Y=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: oq7YYqwYaTTP5b847OHU06mSxgA=
+
+Name: assets/html-it/whatsnew.html
+SHA1-Digest: gnUVk6NTCMh438BeCFhKF5hg9xQ=
+
+Name: assets/www/bileti/img/kambanka.png
+SHA1-Digest: QCsIzvNKAgtJkC6QCNNH9dhzJsc=
+
+Name: assets/www/milionpodaracikoleda.html
+SHA1-Digest: SjL/a4g8KOfL71jeWugfxBVlgDo=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: V3s/YlawQ26DKo0P2hxPmefwmP4=
+
+Name: assets/html-fr/index.html
+SHA1-Digest: 22hDI63Xq9f9Fby+hunF8Iw8GXs=
+
+Name: res/layout/help.xml
+SHA1-Digest: if/pcPLXeS97TvLCKoGKoC3VLzg=
+
+Name: assets/www/css/style.css
+SHA1-Digest: 6A+Pec8BNkCmFZJA5K/i+2asFZQ=
+
+Name: assets/www/bileti/img/243.jpg
+SHA1-Digest: QYt0TBqEcVzCkr4s2DsdTnXs26Q=
+
+Name: assets/www/bileti/img/vakancia1.jpg
+SHA1-Digest: Wxr9nbmdDS6jJ1WHJbvy1BT2Hew=
+
+Name: assets/www/krastoslovica.html
+SHA1-Digest: /8+1XxE0oh+d3Sluneuf4pBOto8=
+
+Name: assets/www/bileti/img/bmfo1.jpg
+SHA1-Digest: ZbqWs27D1CacMs0uHZYQTLfVfqo=
+
+Name: assets/html-zh-rCN/whatsnew.html
+SHA1-Digest: IWpyw6KM9FFSbeax7cmVDu5OioM=
+
+Name: assets/html-es/sharing.html
+SHA1-Digest: jK4E6OepBK4WoS4GgECTsecx6wg=
+
+Name: assets/www/zlatotonainkite.html
+SHA1-Digest: dAnUnttAEpZy5koLPaaMR/9XTAs=
+
+Name: assets/www/kesh1milion.html
+SHA1-Digest: gZXMrdcc8h+ZRzcW3barfpgY748=
+
+Name: assets/www/css/app.css
+SHA1-Digest: ivZ6jGBXG2Ej5OcBcUtykgivGT0=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA1-Digest: +a/InSGo0lMLs6sL4IniO9hQpRs=
+
+Name: assets/www/bileti/img/vegas1.jpg
+SHA1-Digest: cTfrXSHL3/kVXIVPoxb9GT5u8ls=
+
+Name: assets/www/labirint.html
+SHA1-Digest: tlVjQlueOYSRzTxdQaTGeE5eZEw=
+
+Name: assets/www/bileti/img/milion1.jpg
+SHA1-Digest: mtFMAh2ZLNhL7DrffIKPsoedac4=
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA1-Digest: sUpHK3abfitB+lR7ysNmAptLbo0=
+
+Name: res/layout/search_book_contents_list_item.xml
+SHA1-Digest: bn5HdNk9y5jBG6tmWtnlyWD/PTw=
+
+Name: res/raw/beep.ogg
+SHA1-Digest: GlIsg8mvi6v0saqDdV7ZN0KoFcY=
+
+Name: assets/html-pt/whatsnew.html
+SHA1-Digest: 4yo582SeM0Jro+odymjtVPlsSvQ=
+
+Name: assets/html-es/license.html
+SHA1-Digest: SJYS6vIdKm9NfVNT6ky9KKqUCoM=
+
+Name: assets/www/bileti/img/levche2.jpg
+SHA1-Digest: GFBSUZanJ8Q6SO8bHdd1AKJBEDI=
+
+Name: assets/html-de/index.html
+SHA1-Digest: hVNtGRBILqSnc9deHvO4kjzsfUo=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l_background.9.png
+SHA1-Digest: kieZ6iZ6OFU4p859oJQYCADvVuA=
+
+Name: res/layout/search_book_contents_header.xml
+SHA1-Digest: SIIoJr5pb5UKLzUFDDKhy5UOC+s=
+
+Name: assets/www/bileti/img/astro3.jpg
+SHA1-Digest: /+tNUQ8wQnmQZJjOK8luIN2IZNs=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: GP+/JjynifGXyO3gKsnOnGKNyf4=
+
+Name: assets/html-zh-rTW/about1d.html
+SHA1-Digest: VqTfbhqGq1fJxGTUTCbyqmB6Kgc=
+
+Name: assets/www/bileti/img/pasians1.jpg
+SHA1-Digest: pPLZJ9tdMyLZgIJjs4KJR3SOPp8=
+
+Name: assets/html-es/about1d.html
+SHA1-Digest: E9+Rd5BELsPTRGWOUjs8y/MoUf0=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: dmAFscQrypCESQlWioFA+xc5SS4=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ _background.9.png
+SHA1-Digest: V5BgoOMFP6SkB/Rq1phUjJUqsSo=
+
+Name: assets/www/bileti/img/seifove3.jpg
+SHA1-Digest: e+oHvgxltUrfuOGiIceux8l0ngI=
+
+Name: assets/html-ja/about2d.html
+SHA1-Digest: mhlz/q0xO8iGC4m2N5GjcdU16u8=
+
+Name: assets/www/pasians.html
+SHA1-Digest: gTbEWYl7wQZoEnDUxZkniIAzxnk=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ _background.9.png
+SHA1-Digest: UeOh+HJRiySoixJQcw9pSx76zas=
+
+Name: assets/www/bingomilioni35.html
+SHA1-Digest: SdIlX0ibzochEhyvC6h+zqYYLsM=
+
+Name: res/drawable/launcher_icon.png
+SHA1-Digest: /AUo+YKW9P9fBVbsl8HslEgTwcE=
+
+Name: assets/www/js/util.js
+SHA1-Digest: gaM4VcS0+miUfDbU3G/6ak0kEd4=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_
+ background.9.png
+SHA1-Digest: eDEv0/H5H+qqc28Qi2s85+/aPLA=
+
+Name: assets/www/bileti/img/podarykskasmeti1.jpg
+SHA1-Digest: 0JVRX10aHmk/hYUz4dgijZqURwQ=
+
+Name: assets/www/bileti/img/super3.jpg
+SHA1-Digest: 5HeEdi0vPIoFyz0rs0vkBSVdZOY=
+
+Name: assets/html-fr/scanning.html
+SHA1-Digest: A9UZehQnCibrZ110gkXDRDqUWz0=
+
+Name: build-data.properties
+SHA1-Digest: 5cYAZbJqAbXYXq/t11bB6UBHB5A=
+
+Name: assets/html-uk/about1d.html
+SHA1-Digest: lATDQgm9SqPtORQBxniA+zJ3AwM=
+
+Name: assets/html-zh-rHK/index.html
+SHA1-Digest: Zq2xoSrqiH6iRzrE0X5AWdbiPeo=
+
+Name: assets/html-uk/index.html
+SHA1-Digest: 86iKqDbRKwWHFPS8d30JWgLWrOY=
+
+Name: assets/html-nl/index.html
+SHA1-Digest: Vsb16Nsfo6Tiu+Qt4jcxPYwA/Uk=
+
+Name: assets/html-zh-rCN/sharing.html
+SHA1-Digest: UWxhttlsK3S8y9rEcJ/754olXV8=
+
+Name: assets/www/bileti/img/bmfo2.jpg
+SHA1-Digest: h/0yQnI0KWJK+SBLhELkr4kOHVE=
+
+Name: assets/www/bileti/img/bbb.png
+SHA1-Digest: +ral2LG+JvuaZsIV9MnW9qZr69c=
+
+Name: assets/www/xdk/project-info.json
+SHA1-Digest: dRuoHrS+em7RQ5R+YcsMLjMTKZQ=
+
+Name: assets/www/bileti/img/labirin1.jpg
+SHA1-Digest: NfekDQLwUr/EHbrwNDDjMxVt73s=
+
+Name: assets/images/big-1d.png
+SHA1-Digest: tc7H9IIybT4WdWlNk2EBtSyx0+s=
+
+Name: assets/html-uk/license.html
+SHA1-Digest: +tz25yTlQzzvYFSEH+xelqW4Gs4=
+
+Name: assets/html-ko/index.html
+SHA1-Digest: 723V5Es1nBRJKjn4VQqmcisrjR4=
+
+Name: assets/html-ja/about1d.html
+SHA1-Digest: evcN/3LX640mnTha4IlWFBlChvY=
+
+Name: res/layout/history_list_item.xml
+SHA1-Digest: zdBwzpEni0pAuiHg12JxShtyWww=
+
+Name: assets/html-zh-rCN/index.html
+SHA1-Digest: 0ZNsKpDiOapuiU5iMTQNv79FsaE=
+
+Name: res/menu/history.xml
+SHA1-Digest: hh7wnFjwYSiJQC6eU0yaMz4EYVo=
+
+Name: assets/html-en/scanning.html
+SHA1-Digest: aENLrw5dFOFmGB+h+XGsrGo/Zoc=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: HP+31ii3IcHx4ttOhH81nkSK1a8=
+
+Name: classes.dex
+SHA1-Digest: I/49i44OYer5SCC4qJVC8XNvFvw=
+

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<!--
+  * Please see the included README.md file for license terms and conditions.
+  -->
+
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+
+    <!-- see http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/quick-tip-dont-forget-the-viewport-meta-tag -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        /* following two viewport lines are equivalent to meta viewport statement above, and is needed for Windows */
+        /* see http://www.quirksmode.org/blog/archives/2014/05/html5_dev_conf.html and http://dev.w3.org/csswg/css-device-adapt/ */
+        @-ms-viewport { user-zoom: fixed ; min-zoom: 100% ; max-zoom: 100% ; width: 100vw ; }
+        @viewport     { user-zoom: fixed ; min-zoom: 100% ; max-zoom: 100% ; width: 100vw ; }
+        .popup .popuptext {
+            visibility: hidden;
+    width: 100%;
+    height: 15vh;
+    overflow: auto;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    bottom: 0%;
+    top: 20px;
+    left: 0%;
+    bottom: 0%;
+    margin-left: 0px;
+    line-height: 15vh;
+    font-size: 20px;
+}
+
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+    </style>
+
+    <link rel="stylesheet" href="css/app.css">
+</head>
+
+<body>
+
+    <!-- IMPORTANT: Do not include a weinre script tag as part of your release builds! -->
+    <!-- Place your remote debugging weinre script URL here, if it does not work below. -->
+
+    <!-- "Phantom" cordova.js required for projects that use plugins -->
+    <script src="cordova.js"></script>
+
+    <script src="js/app.js"></script>
+    <script src="js/init-app.js"></script>
+    <script src="xdk/init-dev.js"></script>
+    <script src="js/util.js"></script>
+
+    <h1><img src="LOGO_LB.png" width="98%"></h1>
+
+    <p class="align-center">
+        <a class="button--large" onclick="scan()">Сканирай Билет</a>
+    </p>
+    <p>
+    <a class="button--small" href="bileti.html" style="position: absolute; bottom:0px; left: 0%;" >Билети</a>
+    <a class="button--small" href="index.html" style="position: absolute; bottom:0px; right: 0%;">Проверка</a>
+    
+    </p>
+    <div class="popup">
+    <span class="popuptext" onclick="document.getElementById('myPopup').classList.toggle('show')" id="myPopup" style="position: fixed; font-family: Arial; top:40%;"><center></center></span>
+</div>
+</body>
+
+</html>
